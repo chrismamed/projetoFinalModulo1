@@ -1,7 +1,3 @@
-    /* CORPO */
-    /* CORPO */
-    /* CORPO */
-    
     body,
     html {
         height: 100%;
@@ -92,16 +88,6 @@
         font-weight: bolder;
     }
 
-    /* CORPO */
-    /* CORPO */
-    /* CORPO */
-
-    /*____________________________________________________________________*/
-
-    /* RODAPÉ */
-    /* RODAPÉ */
-    /* RODAPÉ */
-
     footer {
         position: fixed;
         bottom: 0;
@@ -118,17 +104,6 @@
         text-decoration: none;
         color: #ffffff;
     }
-
-    /* RODAPÉ */
-    /* RODAPÉ */
-    /* RODAPÉ */
-    /* RODAPÉ */
-
-    /*____________________________________________________________________*/
-
-    /* AÇÕES DO CURSOR */
-    /* AÇÕES DO CURSOR */
-    /* AÇÕES DO CURSOR */
 
     .select:hover {
         cursor: pointer;
@@ -149,7 +124,3 @@
         opacity: 1;
         background: #ce7951fa;
     }
-
-    /* AÇÕES DO CURSOR */
-    /* AÇÕES DO CURSOR */
-    /* AÇÕES DO CURSOR */
